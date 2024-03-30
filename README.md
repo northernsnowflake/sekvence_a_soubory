@@ -1,0 +1,1 @@
+# sekvence_a_soubory
